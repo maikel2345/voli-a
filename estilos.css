@@ -1,0 +1,142 @@
+*{
+	margin:0px;
+	padding:0px;
+	}
+	
+div#general{
+	margin:auto;
+	margin-top:20px;
+	width:1060px;
+	height:900px;
+	background-color: purple;
+	}
+
+div#ofertas{
+	border-width: 3px;
+    border-style: dotted;
+    border-color: black;
+	margin: 0 auto;
+	margin-top:50;
+	padding:80;
+	width:600px;
+	height:70px;
+	background-color:green;
+	}
+
+	
+
+.nose{
+	width: 850px;
+	margin: 80px ;
+	background: #fff;
+}
+
+.nose ul{
+	list-style: none;
+}
+
+.nose > li{
+	position: relative;
+	display: inline-block;
+}
+
+.nose > li > a{
+	display: block;
+	padding: 10px 40px;
+	color: green;
+	font-family: 'MV boli';
+	text-decoration: none;
+}
+
+.nose li a:hover{
+	color: #CE7D35;
+	transition: all .5s;
+}
+
+
+div#defecto{
+	float: right;
+	border-width: 3px;
+    border-style: dotted;
+    border-color: red;
+	margin:60px;
+	margin-top:10;
+	padding-top:10px;
+	width:290px;
+	height:230px;
+	background-color:green;
+    }
+
+div#novedades{
+	float: right;
+	border-width: 3px;
+    border-style: dotted;
+    border-color: red;
+	margin:60px;
+	margin-top:10;
+	padding-top:10px;
+	width:500px;
+	height:230px;
+	background-color:green;
+	font-size: 23px;
+    }
+
+.cuadro {
+    border-width: 5px;
+    border-style: dotted;
+    border-color: black;
+	margin-top:150;
+    justify-content: center;
+    align-items: center;
+	padding-top: 6px;
+	width:900px;
+	height:360px;
+	background-color:red;
+}
+.cuadro p {
+  color: black; 
+  font-size: 23px; 
+  }
+ 
+ 
+}
+
+ul.nose {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul.nose li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+ul.nose li a {
+  text-decoration: none;
+  color: #333333;
+  padding: 	20px 10px;
+  border: 5px solid #cccccc;
+  border-radius: 10px;
+}
+
+ul.nose li a:hover {
+  background-color: #cccccc;
+}
+
+.ave {
+    border-width: 5px;
+    border-style: dotted;
+    border-color: red;
+	margin-top:90;
+    justify-content: center;
+    align-items: center;
+	padding-top: 6px;
+	width:900px;
+	height:400px;
+	background-color:green;
+}
+.ave p {
+  color: black; 
+  font-size: 23px; 
+  }
